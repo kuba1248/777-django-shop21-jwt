@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+products/
+media/
+.env/
+# Project exclude paths
+/senv/
